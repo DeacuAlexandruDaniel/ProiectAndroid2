@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">ProiectAndroid</string>
+    <string name="loginPassword">Introduce password</string>
+    <string name="loginUsername">Introduce username</string>
+    <string name="LogInButton">Log In</string>
+    <string name="noAccount">Don\'t have an account?</string>
+    <string name="signUp">Sign Up</string>
+    <string name="register">Register</string>
+    <string name="choseUsername">Chose a username</string>
+    <string name="email">Introduce a valid email adress</string>
+    <string name="profile">Profile</string>
+    <string name="addItem">Add an item to your collection</string>
+    <string name="seeCollection">See your collection</string>
+    <string name="museums">See museums</string>
+    <string name="logOut">Log Out</string>
+    <string name="tapCamera">Tap on the camera to select a profile picture</string>
+    <string name="enterUsername">Enter your username</string>
+    <string name="saveProfileInfo">Save your profile information</string>
+    <string name="exit">Exit App</string>
+    <string name="year">Year:</string>
+    <string name="authorName">Author name:</string>
+    <string name="pieceName">Name of the art piece:</string>
+    <string name="price">Price:</string>
+    <string name="highlight">Is this object a highlight for you collection?</string>
+    <string name="authenticity">Is the object authentic?\"</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="painting">Painting</string>
+    <string name="sculpture">Sculpture</string>
+    <string name="addItemButtonText">Add item to collection</string>
+    <string name="deleteDB">Delete your collection</string>
+    <string name="deleteItem">Delete an item of your collection</string>
+    <string name="selectIdOfDeleteItem">Select the id of the item you want to delete</string>
+    <string name="museumsMap">See where museums are on the map</string>
+    <string name="Louvre">French Musée du Louvre</string>
+    <string name="paris">Paris - France</string>
+    <array name="current_array">
+        <item>Ancient Art (30000 B.C. - 400 A.D.)</item>
+        <item>Medieval Art (500 A.D. - 1400 A.D.)</item>
+        <item>Renaissance (1400 - 1600)</item>
+        <item>Baroque (1600 - 1750)</item>
+        <item>Neoclassicism (1750 - 1850)</item>
+        <item>Romanticism (1780 - 1850)</item>
+        <item>Realism (1848 - 1900)</item>
+        <item>Art Nouveau (1890 - 1910)</item>
+        <item>Impressionism (1865 - 1885)</item>
+        <item>Post-Impressionism (1885 - 1910)</item>
+        <item>Fauvism (1900 - 1935)</item>
+        <item>Cubism (1907 - 1914)</item>
+        <item>Surrealism (1917 - 1950)</item>
+        <item>Pop Art (50s - 60s)</item>
+        <item>Minimalism (60s - 70s)</item>
+        <item>Contemporary Art (1970 - present)</item>
+    </array>
+    <array name="type_array">
+        <item>Picture</item>
+        <item>Sculpture</item>
+    </array>
+    <string-array name="museums">
+        <item>"French Musée du Louvre"</item>
+        <item>"The Metropolitan Museum of Art"</item>
+        <item>"The National Gallery"</item>
+        <item>"The National Art Center"</item>
+    </string-array>
+    <string-array name="locations">
+        <item>"Paris - France"</item>
+        <item>"New York - The United States of America"</item>
+        <item>"London - United Kingdom"</item>
+        <item>"Tokyo - Japan"</item>
+    </string-array>
+    <string name="title_activity_museums_map">Map</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
